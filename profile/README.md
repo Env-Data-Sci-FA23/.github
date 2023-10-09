@@ -23,7 +23,7 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 #### 1) Set up Instructions and Tutorials
 
-- You **must** install all necesarry software to the computer you will be using in class before the course begins. From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues. This book is a phenomenal resource for learning git, GitHub, and RStudio integration.
+- You **must** install all necessary software to the computer you will be using in class before the course begins. From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues. This book is a phenomenal resource for learning git, GitHub, and RStudio integration.
 
   *Even if you already have R/RStudio installed, please make sure to install the newest versions. At MINIMUM you must have R version 4.1 or greater*
 
