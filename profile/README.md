@@ -74,7 +74,7 @@ As such, coming to class is a vital part of how you can be successful and we ful
 
 We also will actively encourage a collaborative coding environment where students help each other, discuss the best approach to solving various coding problems, and deeply engage in online coding help including AI code assistants like GitHub CoPilot or ChatGPT-3. We also hope that outside of class, you will use our Teams channel to discuss code issues!
 
-Each week we will cover new topics, you will submit your code through GitHub, and you or your peers will grade your code based on a key we share. A full syllabus that we may occasionally update is [here](https://colostate-my.sharepoint.com/:w:/g/personal/ccmothes_colostate_edu/EdQG_l5PZqVNomB2xImV1OoBSEM4bEXJYSwOW_YnxJTU6g?e=pwLcfo) with a schedule below. 
+Each week we will cover new topics, you will submit your code through GitHub, and you or your peers will grade your code based on a key we share. A full syllabus that we may occasionally update is [here]([https://colostate-my.sharepoint.com/:w:/g/personal/ccmothes_colostate_edu/EdQG_l5PZqVNomB2xImV1OoBSEM4bEXJYSwOW_YnxJTU6g?e=pwLcfo](https://colostate-my.sharepoint.com/:w:/g/personal/ccmothes_colostate_edu/EfdTUZnB6PtFs19qM88FUJgBRhFQW7IriLrpt69Ai3349A?e=ywjpwJ) with a schedule below. 
 
 We will always send announcements with assigments, video links, and other updates through Canvas. 
 
